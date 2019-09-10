@@ -1,0 +1,4 @@
+def simplefunc:
+	print "Hello"
+
+
